@@ -11,3 +11,4 @@
 
 -  📝 **[Transcribe](https://transcribeapp.space)** - transcribe video to text in app offline free
 -  🛠️ **[Duck Migration](https://github.com/SrWalkerB/duck-migration-mongo-tools-app)** - Migrate data between MongoDB instances with a simple wizard. (Work in Progress)
+-  🛠️ **[Duck Analytics](https://github.com/SrWalkerB/duck-migration-mongo-tools-app)** - Alternative opensource Metabase and PowerBi for create analytics
